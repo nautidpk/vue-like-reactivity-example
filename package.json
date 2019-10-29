@@ -1,0 +1,20 @@
+{
+  "name": "vue-like-reactivity-example",
+  "version": "1.0.0",
+  "description": "Motivation of this demo was to understand how vue js reactive system work i.e. changes in object properties reflected in its dependent methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nautidpk/vue-like-reactivity-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nautidpk/vue-like-reactivity-example/issues"
+  },
+  "homepage": "https://github.com/nautidpk/vue-like-reactivity-example#readme"
+}
